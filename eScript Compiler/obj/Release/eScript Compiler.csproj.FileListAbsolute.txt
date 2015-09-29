@@ -1,0 +1,11 @@
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\bin\Release\eScript Compiler.exe.config
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\bin\Release\eScript Compiler.exe
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\bin\Release\eScript Compiler.pdb
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\obj\Release\eScript_Compiler.Form1.resources
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\obj\Release\eScript_Compiler.Properties.Resources.resources
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\obj\Release\eScript Compiler.csproj.GenerateResource.Cache
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\obj\Release\eScript Compiler.exe
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\obj\Release\eScript Compiler.pdb
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\bin\Release\Ookii.Dialogs.dll
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\bin\Release\Ookii.Dialogs.xml
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\obj\Release\eScript Compiler.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+c:\users\davide\documents\visual studio 2012\Projects\eScript Compiler\eScript Compiler\bin\Debug\eScript Compiler.exe
+c:\users\davide\documents\visual studio 2012\Projects\eScript Compiler\eScript Compiler\bin\Debug\eScript Compiler.pdb
+c:\users\davide\documents\visual studio 2012\Projects\eScript Compiler\eScript Compiler\obj\Debug\eScript Compiler.csprojResolveAssemblyReference.cache
+c:\users\davide\documents\visual studio 2012\Projects\eScript Compiler\eScript Compiler\obj\Debug\eScript_Compiler.Properties.Resources.resources
+c:\users\davide\documents\visual studio 2012\Projects\eScript Compiler\eScript Compiler\obj\Debug\eScript Compiler.csproj.GenerateResource.Cache
+c:\users\davide\documents\visual studio 2012\Projects\eScript Compiler\eScript Compiler\obj\Debug\eScript Compiler.exe
+c:\users\davide\documents\visual studio 2012\Projects\eScript Compiler\eScript Compiler\obj\Debug\eScript Compiler.pdb
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\bin\Debug\eScript Compiler.exe.config
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\bin\Debug\Ookii.Dialogs.dll
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\bin\Debug\Ookii.Dialogs.xml
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\obj\Debug\eScript_Compiler.LastScripts.resources
+C:\Users\DAVIDE\Documents\Visual Studio 2012\Projects\eScript Compiler\eScript Compiler\obj\Debug\eScript_Compiler.Main.resources
+C:\Users\DAVIDE\Documents\GitHub\eScript_Compiler\eScript Compiler\bin\Debug\eScript Compiler.exe.config
+C:\Users\DAVIDE\Documents\GitHub\eScript_Compiler\eScript Compiler\obj\Debug\eScript Compiler.exe
+C:\Users\DAVIDE\Documents\GitHub\eScript_Compiler\eScript Compiler\obj\Debug\eScript Compiler.pdb
